@@ -31,7 +31,7 @@ Write your narrative here
 
 (4 points)
 
-Write your narrative below
+Write your narrative below &gt;variables:7
 
 \`3. Copy the code provided in the homework documentation and paste it
 here.
