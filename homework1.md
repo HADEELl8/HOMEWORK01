@@ -34,11 +34,12 @@ Write your narrative here
 Write your narrative below &gt;variables:7
 
 \`3. Copy the code provided in the homework documentation and paste it
-here.
+here. seattlepets %&gt;% count(animal\_name, sort = TRUE) (4 points)
 
-(4 points)
-
-Write your narrative here
+Write your narrative here \# A tibble: 13,930 x 2 animal\_name n <chr>
+<int> 1 NA 483 2 Lucy 439 3 Charlie 387 4 Luna 355 5 Bella 331 6 Max 270
+7 Daisy 261 8 Molly 240 9 Jack 232 10 Lily 232 \# … with 13,920 more
+rows
 
 \`4.
 
