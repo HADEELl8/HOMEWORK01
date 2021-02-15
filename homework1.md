@@ -78,14 +78,11 @@ Cat Lucy 102 4 Cat Luna 111 5 Cat NA 406 6 Dog Daisy 221 7 Dog Luna 244
 \`5. What names are more common for cats than dogs? The ones above the
 line or the ones below the line?
 
-Answer here
-
-(4 points)
+Answer here Oliver and lily (4 points)
 
 \`6. Is the relationship between the two variables (proportion of cats
 with a given name and proportion of dogs with a given name) positive or
 negative? What does this mean in context of the data?
 
-Answer here
-
-(4 points)
+Answer here The higher the percentage in the names of cats,the higher
+also the dogs (4 points)
